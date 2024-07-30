@@ -5,12 +5,12 @@
 	"description": "A short one line description of your module",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-your-module-name.git",
-	"bugs": "https://github.com/bitfocus/companion-module-your-module-name/issues",
+	"repository": "git+https://github.com/scs-yasu/companion-module-test.git",
+	"bugs": "https://github.com/scs-yasu/companion-module-test/issues",
 	"maintainers": [
 		{
-			"name": "Your name",
-			"email": "Your email"
+			"name": "Yasu",
+			"email": "yasu@skeletoncrew.co.jp"
 		}
 	],
 	"runtime": {
@@ -20,7 +20,7 @@
 		"entrypoint": "../main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "Your company",
-	"products": ["Your product"],
-	"keywords": []
+	"manufacturer": "Skeletoncrew Studio",
+	"products": ["testmodule"],
+	"keywords": ["test", "module"]
 }
